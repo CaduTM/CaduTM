@@ -1,3 +1,22 @@
+<div align="center">
+   <p>Welcome to my profile !!</p>
+</div>
+
+#
+
+<div align="center">
+  <p>SUA BIO AKI</p>
+</div>
+  
+#
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=00FF00&color:FFF)](mailto:cpassos2002@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF00&color:FFF)](https://www.instagram.com/carlos.phsy?igsh=MXBzNnhpeDhyb3F1eA==)
+[![Discord](https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord&logoColor=00FF00&color:FFF)](https://discord.gg/sZnuksgens)
+
+
 <h3 align="left">My Skills 📚</h3>
 
 <div align="left">
