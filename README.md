@@ -35,3 +35,11 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaduTM&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&hide=html,scss,less&bg_color=000&text_color=00FF00&border_radius=3&border_color=00FF00&count_private=true" alt="Linguagens mais usadas">
   </a>
 </div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake.svg">
+</picture>
